@@ -1,5 +1,5 @@
 # SwiftOCR-8.2
-
+The project helps to get started with swiftOCR from here https://github.com/garnele007/SwiftOCR
 ## Steps to start
 
 1. Make a new project in Xcode 8.2
